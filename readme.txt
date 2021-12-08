@@ -1,0 +1,1 @@
+exec bundle jekyll serve --force-polling
